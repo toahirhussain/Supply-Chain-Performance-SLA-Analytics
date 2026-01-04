@@ -92,16 +92,29 @@ Page 3 – Cost & Profitability Analysis
 
 ## 📦 supply-chain-performance-analytics
 ├── README.md
+
 ├── sql/
+
 │   ├── 01_raw_data_load.sql
+
 │   ├── 02_data_cleaning.sql
+
 │   ├── 03_fact_dimension_model.sql
+
 │   ├── 04_sla_calculations.sql
+
 ├── powerbi/
+
 │   ├── Supply_Chain_Dashboard.pbix
+
 │   ├── dashboard_screenshots/
+
 ├── images/
+
 │   ├── data_model.png
+
 │   ├── dashboard_page1.png
+
 │   ├── dashboard_page2.png
+
 │   ├── dashboard_page3.png
