@@ -9,7 +9,6 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 ## 🎯 Project Goal
 
 > The goal of this project was to design an end-to-end analytics solution that transforms raw logistics data into actionable insights across:
-
   > - Delivery performance and SLA compliance
   > - Inventory risk and stock optimization
   > - Cost and profitability analysis
