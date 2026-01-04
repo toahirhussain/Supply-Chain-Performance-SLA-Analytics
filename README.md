@@ -57,3 +57,16 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
   - Route
   - Location
   - Quality / inspection
+
+## Data cleaning & transformation (BigQuery SQL)
+- Renamed raw columns to business-friendly camelCase naming
+- Standardized numeric fields (prices, costs, percentages)
+- Handled missing and inconsistent categorical values
+- Created SLA logic using shipping time vs SLA target
+- Derived calculated fields such as:
+  - Total costs
+  - Gross margin ($ and %)
+  - Inventory value
+  - On-time vs late shipment flags
+- Built clean fact and dimension tables using CREATE OR REPLACE TABLE
+> All transformations were performed in BigQuery to simulate a cloud-based analytics workflow.
