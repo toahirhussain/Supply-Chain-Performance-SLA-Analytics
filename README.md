@@ -33,7 +33,11 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 ## Data & tools used
 
 - Dataset: A supply chain data downloaded from Kaggle
+- 
 • SQL: Google BigQuery (data cleaning, transformation, modeling)
+
 • BI Tool: Power BI (semantic model, DAX, visualization)
+
 • Data Modeling: Star schema (fact + dimension tables)
+
 • Visualization: Executive dashboards, KPIs, SLA analytics
