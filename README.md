@@ -51,15 +51,9 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 - Dimension tables
 
   - Product
-  - 
   - Supplier
-
   - Carrier
-
   - Transport mode
-
   - Route
-
   - Location
-
-Quality / inspection
+  - Quality / inspection
