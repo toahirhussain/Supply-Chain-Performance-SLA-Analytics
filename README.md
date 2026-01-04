@@ -16,4 +16,4 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
   
   > - Cost and profitability analysis
   
-  > - The solution enables business stakeholders to monitor performance, identify risks, and support data-driven operational decisions.
+  The solution enables business stakeholders to monitor performance, identify risks, and support data-driven operational decisions.
