@@ -20,24 +20,24 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 
 
 ## ❓ Key questions the project answers
-  • Are shipments meeting SLA delivery targets?
+  - Are shipments meeting SLA delivery targets?
   
-  • Which carriers and routes contribute most to late deliveries?
+  - Which carriers and routes contribute most to late deliveries?
   
-  • Where does inventory risk exist across product categories?
+  - Where does inventory risk exist across product categories?
   
-  • Are we generating revenue efficiently relative to costs?
+  - Are we generating revenue efficiently relative to costs?
   
-  • Which products and suppliers drive high revenue but low margins?
+  - Which products and suppliers drive high revenue but low margins?
 
 ## Data & tools used
 
 - Dataset: A supply chain data downloaded from Kaggle
-- 
-• SQL: Google BigQuery (data cleaning, transformation, modeling)
+ 
+- SQL: Google BigQuery (data cleaning, transformation, modeling)
 
-• BI Tool: Power BI (semantic model, DAX, visualization)
+- BI Tool: Power BI (semantic model, DAX, visualization)
 
-• Data Modeling: Star schema (fact + dimension tables)
+- Data Modeling: Star schema (fact + dimension tables)
 
-• Visualization: Executive dashboards, KPIs, SLA analytics
+- Visualization: Executive dashboards, KPIs, SLA analytics
