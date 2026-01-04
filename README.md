@@ -62,3 +62,46 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 
 ## 📊 SLA Performance Logic
 > SLA performance was calculated by comparing actual shipping time against defined SLA shipping targets. Shipments delivered within the SLA threshold were marked as on-time, while others were classified as late. Additional metrics such as late shipment count and average late days were created to quantify SLA breaches and severity.
+
+## Dashboard structure (this is excellent for portfolios)
+### 📈 Power BI Dashboard Pages
+
+Page 1 – Supply Chain Performance
+ - Revenue, inventory value, gross margin KPIs
+ - On-time delivery rate and late shipment count
+ - Inventory risk scatter by product category
+ - Late percentage by carrier
+
+Page 2 – SLA & Delivery Analysis
+ - On-time vs late shipment distribution
+ - Carrier and route performance comparison
+ - SLA threshold reference lines
+ - Dynamic insights and executive summary
+
+Page 3 – Cost & Profitability Analysis
+ - Gross margin % by supplier
+ - Revenue vs margin scatter (inventory exposure)
+ - P&L waterfall (revenue → costs → margin)
+ - Low-margin, high-revenue product identification
+
+## Key insights
+ - SLA performance varies significantly by carrier, indicating vendor optimization opportunities
+ - Certain product categories carry higher inventory exposure with lower pricing flexibility
+ - High-revenue products do not always translate to strong margins, highlighting cost inefficiencies
+ - Inventory value concentration helps identify potential overstock and cash flow risks
+
+## 📦 supply-chain-performance-analytics
+├── README.md
+├── sql/
+│   ├── 01_raw_data_load.sql
+│   ├── 02_data_cleaning.sql
+│   ├── 03_fact_dimension_model.sql
+│   ├── 04_sla_calculations.sql
+├── powerbi/
+│   ├── Supply_Chain_Dashboard.pbix
+│   ├── dashboard_screenshots/
+├── images/
+│   ├── data_model.png
+│   ├── dashboard_page1.png
+│   ├── dashboard_page2.png
+│   ├── dashboard_page3.png
