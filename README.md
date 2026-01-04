@@ -17,3 +17,11 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
   > - Cost and profitability analysis
   
   The solution enables business stakeholders to monitor performance, identify risks, and support data-driven operational decisions.
+
+
+## ❓ Key questions the project answers
+  • Are shipments meeting SLA delivery targets?
+  • Which carriers and routes contribute most to late deliveries?
+  • Where does inventory risk exist across product categories?
+  • Are we generating revenue efficiently relative to costs?
+  • Which products and suppliers drive high revenue but low margins?
