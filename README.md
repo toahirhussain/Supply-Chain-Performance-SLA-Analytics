@@ -41,3 +41,25 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 - Data Modeling: Star schema (fact + dimension tables)
 
 - Visualization: Executive dashboards, KPIs, SLA analytics
+
+## Data modeling approach
+> A star schema was designed to separate transactional shipment data from descriptive dimensions, improving performance and analytical flexibility.
+- shipment_fact_table
+  - Revenue, costs, inventory value
+  - SLA metrics (isLate, lateDays)
+  - Foreign keys (product, carrier, supplier, route, location)
+- Dimension tables
+
+  - Product
+  - 
+  - Supplier
+
+  - Carrier
+
+  - Transport mode
+
+  - Route
+
+  - Location
+
+Quality / inspection
