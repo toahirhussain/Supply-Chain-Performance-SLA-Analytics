@@ -90,7 +90,8 @@ Page 3 – Cost & Profitability Analysis
  - High-revenue products do not always translate to strong margins, highlighting cost inefficiencies
  - Inventory value concentration helps identify potential overstock and cash flow risks
 
-## 📦 supply-chain-performance-analytics
+## Repository structure
+### 📦 supply-chain-performance-analytics
 ├── README.md
 
 ├── sql/
