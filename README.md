@@ -34,11 +34,8 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 
 - Dataset: A supply chain data downloaded from Kaggle
 - SQL: Google BigQuery (data cleaning, transformation, modeling)
-
 - BI Tool: Power BI (semantic model, DAX, visualization)
-
 - Data Modeling: Star schema (fact + dimension tables)
-
 - Visualization: Executive dashboards, KPIs, SLA analytics
 
 ## Data modeling approach
@@ -69,3 +66,6 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
   - On-time vs late shipment flags
 - Built clean fact and dimension tables using CREATE OR REPLACE TABLE
 > All transformations were performed in BigQuery to simulate a cloud-based analytics workflow.
+
+## 📊 SLA Performance Logic
+> SLA performance was calculated by comparing actual shipping time against defined SLA shipping targets. Shipments delivered within the SLA threshold were marked as on-time, while others were classified as late. Additional metrics such as late shipment count and average late days were created to quantify SLA breaches and severity.
