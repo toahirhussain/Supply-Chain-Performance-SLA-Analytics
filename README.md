@@ -1,4 +1,4 @@
-# Supply-Chain-Performance-SLA-Analytics
+# Supply Chain Performance SLA-Analytics
 End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 
 ## 📌 Business Problem
