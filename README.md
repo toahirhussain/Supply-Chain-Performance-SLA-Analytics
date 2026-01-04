@@ -21,7 +21,11 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 
 ## ❓ Key questions the project answers
   • Are shipments meeting SLA delivery targets?
+  
   • Which carriers and routes contribute most to late deliveries?
+  
   • Where does inventory risk exist across product categories?
+  
   • Are we generating revenue efficiently relative to costs?
+  
   • Which products and suppliers drive high revenue but low margins?
