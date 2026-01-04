@@ -63,7 +63,7 @@ End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 ## 📊 SLA Performance Logic
 > SLA performance was calculated by comparing actual shipping time against defined SLA shipping targets. Shipments delivered within the SLA threshold were marked as on-time, while others were classified as late. Additional metrics such as late shipment count and average late days were created to quantify SLA breaches and severity.
 
-## Dashboard structure (this is excellent for portfolios)
+## Dashboard structure
 ### 📈 Power BI Dashboard Pages
 
 Page 1 – Supply Chain Performance
