@@ -91,28 +91,10 @@ A star schema was designed to separate transactional shipment data from descript
   - Inventory value
   - On-time vs late shipment flags
 - Built clean fact and dimension tables using CREATE OR REPLACE TABLE
-> All transformations were performed in BigQuery to simulate a cloud-based analytics workflow.
+All data transformations were executed in BigQuery within the Google Cloud Platform, ensuring scalable and efficient data processing.
 
 ## 📊 SLA Performance Logic:
 SLA performance was calculated by comparing actual shipping time against defined SLA shipping targets. Shipments delivered within the SLA threshold were marked as on-time, while others were classified as late. Additional metrics such as late shipment count and average late days were created to quantify SLA breaches and severity.
 
-## Dashboard structure
-### 📈 Power BI Dashboard Pages
-
-Page 1 – Supply Chain Performance
- - Revenue, inventory value, gross margin KPIs
- - On-time delivery rate and late shipment count
- - Inventory risk scatter by product category
- - Late percentage by carrier
-
-Page 2 – SLA & Delivery Analysis
- - On-time vs late shipment distribution
- - Carrier and route performance comparison
- - SLA threshold reference lines
- - Dynamic insights and executive summary
-
-Page 3 – Cost & Profitability Analysis
- - Gross margin % by supplier
- - Revenue vs margin scatter (inventory exposure)
- - P&L waterfall (revenue → costs → margin)
- - Low-margin, high-revenue product identification
+### Check Power BI Live reports here.
+https://app.powerbi.com/links/RCLnKloGjj?ctid=47629eaf-71cb-400a-bbb9-6403e7903aca&pbi_source=linkShare&bookmarkGuid=5fcfac57-3be7-430f-bc71-ab370fb34d14
