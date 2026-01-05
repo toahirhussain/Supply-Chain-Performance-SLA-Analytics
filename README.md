@@ -63,7 +63,9 @@ The objective of this project was to provide leadership with a data-driven view 
 - Visualization: Executive dashboards, KPIs, SLA analytics
 
 ## Data modeling approach
-> A star schema was designed to separate transactional shipment data from descriptive dimensions, improving performance and analytical flexibility.
+<img width="1420" height="1065" alt="{71060D27-75FF-4AA2-8286-FC8D327BE856}" src="https://github.com/user-attachments/assets/d37e5a3b-ccc0-4d97-ab9b-cd41c6bbc3c5" />
+
+A star schema was designed to separate transactional shipment data from descriptive dimensions, improving performance and analytical flexibility.
 - shipment_fact_table
   - Revenue, costs, inventory value
   - SLA metrics (isLate, lateDays)
