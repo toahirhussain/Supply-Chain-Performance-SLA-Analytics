@@ -97,7 +97,6 @@ All data transformations were executed in BigQuery within the Google Cloud Platf
 SLA performance was calculated by comparing actual shipping time against defined SLA shipping targets. Shipments delivered within the SLA threshold were marked as on-time, while others were classified as late. Additional metrics such as late shipment count and average late days were created to quantify SLA breaches and severity.
 
 ## Interactive Power BI Dashboard (Require Sign In)
-(https://tinyurl.com/5x9rsh2c)
 
 https://toahirhussain.github.io/power-bi-dashboard/
 
