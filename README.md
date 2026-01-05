@@ -77,6 +77,13 @@ The objective of this project was to provide leadership with a data-driven view 
   - Maintain ongoing performance monitoring for mid-risk suppliers to prevent escalation.
 #### Expected outcome: Reduced quality-related disruptions, more predictable supply timelines, and lower downstream operational risk.
 
+# Decision & Next Steps:
+  - 0–30 days: Carrier rebalancing pilot
+  - 30–60 days: Inventory adjustments
+  - Approve Carrier B volume shift pilot (Air/Road)
+  - Approve cosmetics inventory reduction target (10–15%)
+  - Approve Supplier 5 corrective action plan (30 days)
+  - Ongoing: Monthly SLA & supplier reviews
 
 # Data & tools used
 - SQL: Google BigQuery (data cleaning, transformation, modeling)
