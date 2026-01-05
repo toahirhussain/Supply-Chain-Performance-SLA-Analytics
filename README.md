@@ -11,7 +11,8 @@ The objective of this project was to provide leadership with a data-driven view 
 
 # Key Findings
 <img width="350" height="350" alt="{37B81AC0-2C29-4D3D-BFBB-AE0D9B7763CD}" src="https://github.com/user-attachments/assets/979766b6-69ac-405a-97a1-e198601f0394" />
-<img width="500" height="350" alt="{4559E859-C317-4F34-A2B7-987384E1C1D4}" src="https://github.com/user-attachments/assets/fbfa9a4d-64e6-44ce-9742-431c35a9e7e1" />
+<img width="700" height="350" alt="{48A578FB-6D31-4D7F-A680-2894CB784FA6}" src="https://github.com/user-attachments/assets/e216e75c-edaf-4bdd-944e-c7fe7e1741c0" />
+
 
 
 ### Delivery & SLA Performance
