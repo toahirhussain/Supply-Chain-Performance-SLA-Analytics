@@ -1,9 +1,8 @@
 # Supply Chain Performance SLA-Analytics
 
 # Business Problem
-Company: NorthPeak Consumer Goods
-
-Department: Global Supply Chain & Operations
+#### Company: NorthPeak Consumer Goods
+#### Department: Supply Chain & Operations
 
 NorthPeak Consumer Goods experienced increasing delivery delays, uneven inventory utilization, and supplier reliability concerns across its multi-route distribution network. While overall revenue and margins remained strong, leadership lacked visibility into where operational risks were concentrated, how inventory was impacting working capital, and which carriers and suppliers required immediate intervention.
 
