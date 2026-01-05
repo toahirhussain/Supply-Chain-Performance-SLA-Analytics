@@ -10,6 +10,7 @@ NorthPeak Consumer Goods experienced increasing delivery delays, uneven inventor
 The objective of this project was to provide leadership with a data-driven view of supply chain performance, identify operational bottlenecks, and recommend targeted actions to improve delivery reliability, inventory efficiency, and supplier performance without compromising revenue or margin.
 
 # Key Findings
+<img width="509" height="339" alt="{37B81AC0-2C29-4D3D-BFBB-AE0D9B7763CD}" src="https://github.com/user-attachments/assets/979766b6-69ac-405a-97a1-e198601f0394" />
 ### Delivery & SLA Performance
   - Overall on-time delivery performance was 76%, with 24% of shipments delivered late, indicating a material service-level risk.
   - Carrier B accounted for a disproportionate share of late deliveries, with late rates approaching 30%, well above acceptable SLA thresholds.
@@ -67,7 +68,7 @@ A star schema was designed to separate transactional shipment data from descript
 <img width="1420" height="1065" alt="{71060D27-75FF-4AA2-8286-FC8D327BE856}" src="https://github.com/user-attachments/assets/d37e5a3b-ccc0-4d97-ab9b-cd41c6bbc3c5" />
 
 
-#### shipment_fact_table
+#### shipment fact table
   - Revenue, costs, inventory value
   - SLA metrics (isLate, lateDays)
   - Foreign keys (product, carrier, supplier, route, location)
