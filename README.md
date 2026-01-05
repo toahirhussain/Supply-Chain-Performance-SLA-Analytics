@@ -109,7 +109,7 @@ A star schema was designed to separate transactional shipment data from descript
 - Built clean fact and dimension tables using CREATE OR REPLACE TABLE
 All data transformations were executed in BigQuery within the Google Cloud Platform, ensuring scalable and efficient data processing.
 
-## 📊 SLA Performance Logic:
+## SLA Performance Logic:
 SLA performance was calculated by comparing actual shipping time against defined SLA shipping targets. Shipments delivered within the SLA threshold were marked as on-time, while others were classified as late. Additional metrics such as late shipment count and average late days were created to quantify SLA breaches and severity.
 
 ## Interactive Power BI Dashboard (Require Sign In)
