@@ -37,6 +37,26 @@ The objective of this project was to provide leadership with a data-driven view 
   - Other suppliers remained largely within acceptable thresholds but require ongoing monitoring.
 #### Business impact: Supplier risk is concentrated and manageable if addressed proactively. Left unaddressed, it increases rework, delays, and operational volatility.
 ---
+
+## Recommendations
+### Improve Delivery Reliability
+  - Rebalance shipment volume away from Carrier B, particularly for Air and Road transport modes where late rates exceed 35%.
+  - Prioritize high-value routes (Route A) for assignment to best-performing carrier–mode combinations, even at slightly higher unit cost.
+  - Implement carrier SLA scorecards tracking late percentage, average delay days, and volume-weighted impact.
+#### Expected outcome: An estimated 8–12% improvement in on-time delivery, reduced customer escalations, and lower expedited shipping costs.
+
+### Optimize Inventory & Working Capital
+  - Reduce cosmetics inventory by 10–15%, freeing approximately $8K–$12K in working capital based on current exposure.
+  - Reallocate inventory capacity toward skincare, which shows the strongest sales velocity and lowest relative risk.
+  - Reassess Route C strategy, either through logistics cost optimization or volume reduction.
+#### Expected outcome: Improved cash flow, lower inventory carrying costs, and better alignment between stock and demand.
+
+### Strengthen Supplier Risk Management
+  - Place Supplier 5 under corrective action, including tighter inspection cycles and performance-based penalties tied to defects and delays.
+  - Engage Supplier 1 on delivery reliability improvements, focusing on scheduling and SLA adherence rather than quality controls.
+  - Maintain ongoing performance monitoring for mid-risk suppliers to prevent escalation.
+#### Expected outcome: Reduced quality-related disruptions, more predictable supply timelines, and lower downstream operational risk.
+
 ## Data & tools used
 
 - Dataset: A supply chain data downloaded from Kaggle
