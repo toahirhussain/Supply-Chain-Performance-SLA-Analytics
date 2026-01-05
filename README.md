@@ -15,25 +15,28 @@ The objective of this project was to provide leadership with a data-driven view 
   - Carrier B accounted for a disproportionate share of late deliveries, with late rates approaching 30%, well above acceptable SLA thresholds.
   - Air (38%) and Road (28%) transport modes exhibited the highest late delivery rates, suggesting mode-specific planning and execution issues.
   - Average delay duration was 2 days, pointing to systemic inefficiencies rather than isolated disruptions.
-#### Business impact: 
-> Delivery reliability, not pricing or demand, is the primary operational risk affecting customer experience and future revenue retention.
+#### Business impact: Delivery reliability, not pricing or demand, is the primary operational risk affecting customer experience and future revenue retention.
 
 ### Cost & Profitability
   - Gross margin remained extremely strong at ~99%, confirming that pricing and cost structure are not immediate concerns.
   - Route A generated the highest revenue and margin (~$250K), making it the most strategically important route to protect.
   - Route C underperformed, generating lower margin while still consuming inventory and logistics capacity.
   - Supplier 1 contributed the highest total gross margin (~$156K) but showed recurring delivery delays.
-### Business impact:
-> Profitability is driven by volume and operational execution, not margin optimization. Poor route and carrier performance introduces hidden financial risk.
+#### Business impact: Profitability is driven by volume and operational execution, not margin optimization. Poor route and carrier performance introduces hidden financial risk.
 
 ### Inventory & Risk Exposure
   - Total inventory exposure represented 42% of revenue, indicating meaningful working capital tied up in stock.
   - Cosmetics showed the highest inventory exposure at 52% of revenue, signaling overstock risk.
   - Skincare demonstrated the strongest alignment between inventory and sales velocity, with the highest units sold and balanced stock levels.
   - Haircare held relatively high stock levels without proportional sales movement.
-#### Business impact:
-> Inventory is not optimally aligned with demand, reducing cash flexibility and increasing carrying cost risk.
+#### Business impact: Inventory is not optimally aligned with demand, reducing cash flexibility and increasing carrying cost risk.
 
+### Supplier Quality & Reliability
+  - Supplier 5 emerged as the highest-risk supplier, combining elevated defect rates and high late delivery days.
+  - Supplier 1 showed stable quality performance but contributed to delivery delays, affecting downstream reliability.
+  - Other suppliers remained largely within acceptable thresholds but require ongoing monitoring.
+#### Business impact: Supplier risk is concentrated and manageable if addressed proactively. Left unaddressed, it increases rework, delays, and operational volatility.
+---
 ## Data & tools used
 
 - Dataset: A supply chain data downloaded from Kaggle
