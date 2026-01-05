@@ -98,5 +98,7 @@ SLA performance was calculated by comparing actual shipping time against defined
 
 ## Interactive Power BI Dashboard
 (https://tinyurl.com/5x9rsh2c)
+View here: 
+https://toahirhussain.github.io/power-bi-dashboard/
 
 <img width="2399" height="1339" alt="{FB18CDED-B8DC-4550-82B1-F71F5908810D}" src="https://github.com/user-attachments/assets/735ec265-0173-4487-a2ab-b38b0c90170d" />
