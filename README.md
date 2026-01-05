@@ -63,15 +63,15 @@ The objective of this project was to provide leadership with a data-driven view 
 - Visualization: Executive dashboards, KPIs, SLA analytics
 
 ## Data modeling approach
+A star schema was designed to separate transactional shipment data from descriptive dimensions, improving performance and analytical flexibility.
 <img width="1420" height="1065" alt="{71060D27-75FF-4AA2-8286-FC8D327BE856}" src="https://github.com/user-attachments/assets/d37e5a3b-ccc0-4d97-ab9b-cd41c6bbc3c5" />
 
-A star schema was designed to separate transactional shipment data from descriptive dimensions, improving performance and analytical flexibility.
-- shipment_fact_table
+
+#### shipment_fact_table
   - Revenue, costs, inventory value
   - SLA metrics (isLate, lateDays)
   - Foreign keys (product, carrier, supplier, route, location)
-#### - Dimension tables
-
+#### Dimension tables
   - Product
   - Supplier
   - Carrier
@@ -93,8 +93,8 @@ A star schema was designed to separate transactional shipment data from descript
 - Built clean fact and dimension tables using CREATE OR REPLACE TABLE
 > All transformations were performed in BigQuery to simulate a cloud-based analytics workflow.
 
-## 📊 SLA Performance Logic
-> SLA performance was calculated by comparing actual shipping time against defined SLA shipping targets. Shipments delivered within the SLA threshold were marked as on-time, while others were classified as late. Additional metrics such as late shipment count and average late days were created to quantify SLA breaches and severity.
+## 📊 SLA Performance Logic:
+SLA performance was calculated by comparing actual shipping time against defined SLA shipping targets. Shipments delivered within the SLA threshold were marked as on-time, while others were classified as late. Additional metrics such as late shipment count and average late days were created to quantify SLA breaches and severity.
 
 ## Dashboard structure
 ### 📈 Power BI Dashboard Pages
