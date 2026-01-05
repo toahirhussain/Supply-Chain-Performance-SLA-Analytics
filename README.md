@@ -1,6 +1,6 @@
 # Supply Chain Performance SLA-Analytics
 
-### Business Problem
+## Business Problem
 Company: NorthPeak Consumer Goods
 
 Department: Global Supply Chain & Operations
