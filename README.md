@@ -83,7 +83,7 @@ A star schema was designed to separate transactional shipment data from descript
 <img width="1420" height="1065" alt="{71060D27-75FF-4AA2-8286-FC8D327BE856}" src="https://github.com/user-attachments/assets/d37e5a3b-ccc0-4d97-ab9b-cd41c6bbc3c5" />
 
 
-#### shipment fact table
+#### Shipment fact table
   - Revenue, costs, inventory value
   - SLA metrics (isLate, lateDays)
   - Foreign keys (product, carrier, supplier, route, location)
