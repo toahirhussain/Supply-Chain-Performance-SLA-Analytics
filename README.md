@@ -13,8 +13,7 @@ The objective of this project was to provide leadership with a data-driven view 
   - Main risk driver: Carrier B + Air/Road modes
   - Inventory exposure: 42% of revenue (Cosmetics 52%)
   - Top supplier risk: Supplier 5 (defects + delays)
-
-Actions: carrier rebalance pilot, inventory reduction, supplier corrective action
+  - Actions: carrier rebalance pilot, inventory reduction, supplier corrective action
 # Key Findings
 <img width="410" height="171" alt="{37B81AC0-2C29-4D3D-BFBB-AE0D9B7763CD}" src="https://github.com/user-attachments/assets/979766b6-69ac-405a-97a1-e198601f0394" />
 <img width="410" height="320" alt="{48A578FB-6D31-4D7F-A680-2894CB784FA6}" src="https://github.com/user-attachments/assets/e216e75c-edaf-4bdd-944e-c7fe7e1741c0" />
