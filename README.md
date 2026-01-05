@@ -71,11 +71,6 @@ The objective of this project was to provide leadership with a data-driven view 
   - Maintain ongoing performance monitoring for mid-risk suppliers to prevent escalation.
 #### Expected outcome: Reduced quality-related disruptions, more predictable supply timelines, and lower downstream operational risk.
 
-# Decisions & Next Steps
-  - 0–30 days: Start a short trial to move some shipments to more reliable carriers.
-  - 30–60 days: Inventory adjustments
-  - Ongoing: Monthly SLA & supplier reviews
-
 
 # Data & tools used
 - SQL: Google BigQuery (data cleaning, transformation, modeling)
