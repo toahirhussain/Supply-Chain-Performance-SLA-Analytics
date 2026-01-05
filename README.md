@@ -11,15 +11,20 @@ The objective of this project was to provide leadership with a data-driven view 
 
 ## Key Findings
 ### Delivery & SLA Performance
-
   - Overall on-time delivery performance was 76%, with 24% of shipments delivered late, indicating a material service-level risk.
   - Carrier B accounted for a disproportionate share of late deliveries, with late rates approaching 30%, well above acceptable SLA thresholds.
   - Air (38%) and Road (28%) transport modes exhibited the highest late delivery rates, suggesting mode-specific planning and execution issues.
-  - Average delay duration was ~2 days, pointing to systemic inefficiencies rather than isolated disruptions.
+  - Average delay duration was 2 days, pointing to systemic inefficiencies rather than isolated disruptions.
 ### Business impact: 
 > Delivery reliability, not pricing or demand, is the primary operational risk affecting customer experience and future revenue retention.
 
---
+### Cost & Profitability
+  - Gross margin remained extremely strong at ~99%, confirming that pricing and cost structure are not immediate concerns.
+  - Route A generated the highest revenue and margin (~$250K), making it the most strategically important route to protect.
+  - Route C underperformed, generating lower margin while still consuming inventory and logistics capacity.
+  - Supplier 1 contributed the highest total gross margin (~$156K) but showed recurring delivery delays.
+### Business impact:
+> Profitability is driven by volume and operational execution, not margin optimization. Poor route and carrier performance introduces hidden financial risk.
 
 ## Data & tools used
 
