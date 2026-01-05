@@ -26,6 +26,14 @@ The objective of this project was to provide leadership with a data-driven view 
 ### Business impact:
 > Profitability is driven by volume and operational execution, not margin optimization. Poor route and carrier performance introduces hidden financial risk.
 
+### Inventory & Risk Exposure
+  - Total inventory exposure represented 42% of revenue, indicating meaningful working capital tied up in stock.
+  - Cosmetics showed the highest inventory exposure at 52% of revenue, signaling overstock risk.
+  - Skincare demonstrated the strongest alignment between inventory and sales velocity, with the highest units sold and balanced stock levels.
+  - Haircare held relatively high stock levels without proportional sales movement.
+### Business impact:
+> Inventory is not optimally aligned with demand, reducing cash flexibility and increasing carrying cost risk.
+
 ## Data & tools used
 
 - Dataset: A supply chain data downloaded from Kaggle
