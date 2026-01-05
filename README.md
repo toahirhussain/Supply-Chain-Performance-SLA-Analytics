@@ -36,7 +36,6 @@ The objective of this project was to provide leadership with a data-driven view 
   - Supplier 1 showed stable quality performance but contributed to delivery delays, affecting downstream reliability.
   - Other suppliers remained largely within acceptable thresholds but require ongoing monitoring.
 #### Business impact: Supplier risk is concentrated and manageable if addressed proactively. Left unaddressed, it increases rework, delays, and operational volatility.
----
 
 # Recommendations
 ### Improve Delivery Reliability
@@ -57,9 +56,7 @@ The objective of this project was to provide leadership with a data-driven view 
   - Maintain ongoing performance monitoring for mid-risk suppliers to prevent escalation.
 #### Expected outcome: Reduced quality-related disruptions, more predictable supply timelines, and lower downstream operational risk.
 
-## Data & tools used
-
-- Dataset: A supply chain data downloaded from Kaggle
+# Data & tools used
 - SQL: Google BigQuery (data cleaning, transformation, modeling)
 - BI Tool: Power BI (semantic model, DAX, visualization)
 - Data Modeling: Star schema (fact + dimension tables)
@@ -71,7 +68,7 @@ The objective of this project was to provide leadership with a data-driven view 
   - Revenue, costs, inventory value
   - SLA metrics (isLate, lateDays)
   - Foreign keys (product, carrier, supplier, route, location)
-- Dimension tables
+#### - Dimension tables
 
   - Product
   - Supplier
