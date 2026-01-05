@@ -10,7 +10,7 @@ NorthPeak Consumer Goods experienced increasing delivery delays, uneven inventor
 The objective of this project was to provide leadership with a data-driven view of supply chain performance, identify operational bottlenecks, and recommend targeted actions to improve delivery reliability, inventory efficiency, and supplier performance without compromising revenue or margin.
 
 # Key Findings
-<img width="410" height="170" alt="{37B81AC0-2C29-4D3D-BFBB-AE0D9B7763CD}" src="https://github.com/user-attachments/assets/979766b6-69ac-405a-97a1-e198601f0394" />
+<img width="410" height="172" alt="{37B81AC0-2C29-4D3D-BFBB-AE0D9B7763CD}" src="https://github.com/user-attachments/assets/979766b6-69ac-405a-97a1-e198601f0394" />
 <img width="410" height="320" alt="{48A578FB-6D31-4D7F-A680-2894CB784FA6}" src="https://github.com/user-attachments/assets/e216e75c-edaf-4bdd-944e-c7fe7e1741c0" />
 
 
@@ -33,7 +33,7 @@ The objective of this project was to provide leadership with a data-driven view 
 #### Business impact: Profitability is driven by volume and operational execution, not margin optimization. Poor route and carrier performance introduces hidden financial risk.
 
 <img width="410" height="300" alt="{ABC74DE8-A56B-4C2B-B244-E27EFDED3FBE}" src="https://github.com/user-attachments/assets/f824f8a2-b4b1-442e-a75a-3b123c0e2a28" />
-<img width="410" height="300" alt="{3AC10520-BD4A-4EC2-9E11-B216A112DAD8}" src="https://github.com/user-attachments/assets/3b2cb0f8-40da-4be9-9628-8d35c2f38fac" />
+<img width="410" height="200" alt="{3AC10520-BD4A-4EC2-9E11-B216A112DAD8}" src="https://github.com/user-attachments/assets/3b2cb0f8-40da-4be9-9628-8d35c2f38fac" />
 
 
 
