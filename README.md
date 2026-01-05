@@ -1,6 +1,6 @@
 # Supply Chain Performance SLA-Analytics
 
-## Business Problem
+# Business Problem
 Company: NorthPeak Consumer Goods
 
 Department: Global Supply Chain & Operations
@@ -9,7 +9,7 @@ NorthPeak Consumer Goods experienced increasing delivery delays, uneven inventor
 
 The objective of this project was to provide leadership with a data-driven view of supply chain performance, identify operational bottlenecks, and recommend targeted actions to improve delivery reliability, inventory efficiency, and supplier performance without compromising revenue or margin.
 
-## Key Findings
+# Key Findings
 ### Delivery & SLA Performance
   - Overall on-time delivery performance was 76%, with 24% of shipments delivered late, indicating a material service-level risk.
   - Carrier B accounted for a disproportionate share of late deliveries, with late rates approaching 30%, well above acceptable SLA thresholds.
@@ -38,7 +38,7 @@ The objective of this project was to provide leadership with a data-driven view 
 #### Business impact: Supplier risk is concentrated and manageable if addressed proactively. Left unaddressed, it increases rework, delays, and operational volatility.
 ---
 
-## Recommendations
+# Recommendations
 ### Improve Delivery Reliability
   - Rebalance shipment volume away from Carrier B, particularly for Air and Road transport modes where late rates exceed 35%.
   - Prioritize high-value routes (Route A) for assignment to best-performing carrier–mode combinations, even at slightly higher unit cost.
