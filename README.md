@@ -23,7 +23,7 @@ The objective of this project was to provide leadership with a data-driven view 
 #### Business impact: Delivery reliability, not pricing or demand, is the primary operational risk affecting customer experience and future revenue retention.
 
 
-<img width="799" height="400" alt="image" src="https://github.com/user-attachments/assets/86224f34-5c93-4582-90fd-1cc57250a443" />
+<img width="799" height="260" alt="image" src="https://github.com/user-attachments/assets/86224f34-5c93-4582-90fd-1cc57250a443" />
 
 ### Cost & Profitability
   - Gross margin remained extremely strong at ~99%, confirming that pricing and cost structure are not immediate concerns.
@@ -33,7 +33,7 @@ The objective of this project was to provide leadership with a data-driven view 
 #### Business impact: Profitability is driven by volume and operational execution, not margin optimization. Poor route and carrier performance introduces hidden financial risk.
 
 <img width="410" height="320" alt="{ABC74DE8-A56B-4C2B-B244-E27EFDED3FBE}" src="https://github.com/user-attachments/assets/f824f8a2-b4b1-442e-a75a-3b123c0e2a28" />
-<img width="410" height="171" alt="{3AC10520-BD4A-4EC2-9E11-B216A112DAD8}" src="https://github.com/user-attachments/assets/3b2cb0f8-40da-4be9-9628-8d35c2f38fac" />
+<img width="410" height="165" alt="{3AC10520-BD4A-4EC2-9E11-B216A112DAD8}" src="https://github.com/user-attachments/assets/3b2cb0f8-40da-4be9-9628-8d35c2f38fac" />
 
 
 
@@ -44,7 +44,7 @@ The objective of this project was to provide leadership with a data-driven view 
   - Haircare held relatively high stock levels without proportional sales movement.
 #### Business impact: Inventory is not optimally aligned with demand, reducing cash flexibility and increasing carrying cost risk.
 
-<img width="823" height="335" alt="{D02B46AB-AE46-4ED0-8884-C1ECB5F8ED2C}" src="https://github.com/user-attachments/assets/dcddf0d6-8199-459f-b8bd-8699ea652b29" />
+<img width="823" height="260" alt="{D02B46AB-AE46-4ED0-8884-C1ECB5F8ED2C}" src="https://github.com/user-attachments/assets/dcddf0d6-8199-459f-b8bd-8699ea652b29" />
 
 
 ### Supplier Quality & Reliability
