@@ -9,22 +9,21 @@ NorthPeak Consumer Goods experienced increasing delivery delays, uneven inventor
 
 The objective of this project was to provide leadership with a data-driven view of supply chain performance, identify operational bottlenecks, and recommend targeted actions to improve delivery reliability, inventory efficiency, and supplier performance without compromising revenue or margin.
 
-## 🎯 Project Goal
+## Key Findings
+Delivery & SLA Performance
 
-> The goal of this project was to design an end-to-end analytics solution that transforms raw logistics data into actionable insights across:
-  > - Delivery performance and SLA compliance
-  > - Inventory risk and stock optimization
-  > - Cost and profitability analysis
-  
-  The solution enables business stakeholders to monitor performance, identify risks, and support data-driven operational decisions.
+Overall on-time delivery performance was 76%, with 24% of shipments delivered late, indicating a material service-level risk.
 
+Carrier B accounted for a disproportionate share of late deliveries, with late rates approaching 30%, well above acceptable SLA thresholds.
 
-## ❓ Key questions the project answers
-  - Are shipments meeting SLA delivery targets?
-  - Which carriers and routes contribute most to late deliveries?
-  - Where does inventory risk exist across product categories?
-  - Are we generating revenue efficiently relative to costs?
-  - Which products and suppliers drive high revenue but low margins?
+Air (38%) and Road (28%) transport modes exhibited the highest late delivery rates, suggesting mode-specific planning and execution issues.
+
+Average delay duration was ~2 days, pointing to systemic inefficiencies rather than isolated disruptions.
+
+Business impact:
+Delivery reliability, not pricing or demand, is the primary operational risk affecting customer experience and future revenue retention.
+
+--
 
 ## Data & tools used
 
