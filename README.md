@@ -15,7 +15,7 @@ The objective of this project was to provide leadership with a data-driven view 
   - Carrier B accounted for a disproportionate share of late deliveries, with late rates approaching 30%, well above acceptable SLA thresholds.
   - Air (38%) and Road (28%) transport modes exhibited the highest late delivery rates, suggesting mode-specific planning and execution issues.
   - Average delay duration was 2 days, pointing to systemic inefficiencies rather than isolated disruptions.
-### Business impact: 
+#### Business impact: 
 > Delivery reliability, not pricing or demand, is the primary operational risk affecting customer experience and future revenue retention.
 
 ### Cost & Profitability
@@ -31,7 +31,7 @@ The objective of this project was to provide leadership with a data-driven view 
   - Cosmetics showed the highest inventory exposure at 52% of revenue, signaling overstock risk.
   - Skincare demonstrated the strongest alignment between inventory and sales velocity, with the highest units sold and balanced stock levels.
   - Haircare held relatively high stock levels without proportional sales movement.
-### Business impact:
+#### Business impact:
 > Inventory is not optimally aligned with demand, reducing cash flexibility and increasing carrying cost risk.
 
 ## Data & tools used
