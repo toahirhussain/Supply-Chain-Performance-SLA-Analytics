@@ -22,9 +22,9 @@ The objective of this project was to provide leadership with a data-driven view 
   - Average delay duration was 2 days, pointing to systemic inefficiencies rather than isolated disruptions.
 #### Business impact: Delivery reliability, not pricing or demand, is the primary operational risk affecting customer experience and future revenue retention.
 
-### Cost & Profitability
-<img width="799" height="400" alt="image" src="https://github.com/user-attachments/assets/86224f34-5c93-4582-90fd-1cc57250a443" />
 
+<img width="799" height="400" alt="image" src="https://github.com/user-attachments/assets/86224f34-5c93-4582-90fd-1cc57250a443" />
+### Cost & Profitability
   - Gross margin remained extremely strong at ~99%, confirming that pricing and cost structure are not immediate concerns.
   - Route A generated the highest revenue and margin (~$250K), making it the most strategically important route to protect.
   - Route C underperformed, generating lower margin while still consuming inventory and logistics capacity.
