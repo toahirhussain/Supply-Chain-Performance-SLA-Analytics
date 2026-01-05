@@ -26,10 +26,10 @@ The objective of this project was to provide leadership with a data-driven view 
 <img width="799" height="260" alt="image" src="https://github.com/user-attachments/assets/86224f34-5c93-4582-90fd-1cc57250a443" />
 
 ### Cost & Profitability
-  - Gross margin remained extremely strong at ~99%, confirming that pricing and cost structure are not immediate concerns.
-  - Route A generated the highest revenue and margin (~$250K), making it the most strategically important route to protect.
+  - Gross margin remained extremely strong at 99%, confirming that pricing and cost structure are not immediate concerns.
+  - Route A generated the highest revenue and margin ($250K), making it the most strategically important route to protect.
   - Route C underperformed, generating lower margin while still consuming inventory and logistics capacity.
-  - Supplier 1 contributed the highest total gross margin (~$156K) but showed recurring delivery delays.
+  - Supplier 1 contributed the highest total gross margin ($156K) but showed recurring delivery delays.
 #### Business impact: Profitability is driven by volume and operational execution, not margin optimization. Poor route and carrier performance introduces hidden financial risk.
 
 <img width="410" height="320" alt="{ABC74DE8-A56B-4C2B-B244-E27EFDED3FBE}" src="https://github.com/user-attachments/assets/f824f8a2-b4b1-442e-a75a-3b123c0e2a28" />
@@ -71,6 +71,12 @@ The objective of this project was to provide leadership with a data-driven view 
   - Engage Supplier 1 on delivery reliability improvements, focusing on scheduling and SLA adherence rather than quality controls.
   - Maintain ongoing performance monitoring for mid-risk suppliers to prevent escalation.
 #### Expected outcome: Reduced quality-related disruptions, more predictable supply timelines, and lower downstream operational risk.
+
+# Decisions & Next Steps
+  - 0–30 days: Start a short trial to move some shipments to more reliable carriers.
+  - 30–60 days: Inventory adjustments
+  - Ongoing: Monthly SLA & supplier reviews
+
 
 # Data & tools used
 - SQL: Google BigQuery (data cleaning, transformation, modeling)
