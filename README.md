@@ -1,10 +1,13 @@
 # Supply Chain Performance SLA-Analytics
 End-to-End Data Modeling, SQL (BigQuery), and Power BI Dashboard
 
-## 📌 Business Problem
+### Business Problem
+Company: NorthPeak Consumer Goods
+Department: Global Supply Chain & Operations
 
-> Supply chain leaders need visibility into delivery reliability, inventory risk, and profitability to ensure operational efficiency and meet service level agreements (SLAs).
-> However, raw logistics data is often fragmented across shipments, products, suppliers, and carriers, making it difficult to identify performance gaps, cost drivers, and SLA risks in a timely manner.
+NorthPeak Consumer Goods experienced increasing delivery delays, uneven inventory utilization, and supplier reliability concerns across its multi-route distribution network. While overall revenue and margins remained strong, leadership lacked visibility into where operational risks were concentrated, how inventory was impacting working capital, and which carriers and suppliers required immediate intervention.
+
+The objective of this project was to provide leadership with a data-driven view of supply chain performance, identify operational bottlenecks, and recommend targeted actions to improve delivery reliability, inventory efficiency, and supplier performance without compromising revenue or margin.
 
 ## 🎯 Project Goal
 
