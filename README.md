@@ -32,12 +32,20 @@ The objective of this project was to provide leadership with a data-driven view 
   - Supplier 1 contributed the highest total gross margin (~$156K) but showed recurring delivery delays.
 #### Business impact: Profitability is driven by volume and operational execution, not margin optimization. Poor route and carrier performance introduces hidden financial risk.
 
+<img width="450" height="335" alt="{ABC74DE8-A56B-4C2B-B244-E27EFDED3FBE}" src="https://github.com/user-attachments/assets/f824f8a2-b4b1-442e-a75a-3b123c0e2a28" />
+<img width="450" height="477" alt="{3AC10520-BD4A-4EC2-9E11-B216A112DAD8}" src="https://github.com/user-attachments/assets/3b2cb0f8-40da-4be9-9628-8d35c2f38fac" />
+
+
+
 ### Inventory & Risk Exposure
   - Total inventory exposure represented 42% of revenue, indicating meaningful working capital tied up in stock.
   - Cosmetics showed the highest inventory exposure at 52% of revenue, signaling overstock risk.
   - Skincare demonstrated the strongest alignment between inventory and sales velocity, with the highest units sold and balanced stock levels.
   - Haircare held relatively high stock levels without proportional sales movement.
 #### Business impact: Inventory is not optimally aligned with demand, reducing cash flexibility and increasing carrying cost risk.
+
+<img width="823" height="335" alt="{D02B46AB-AE46-4ED0-8884-C1ECB5F8ED2C}" src="https://github.com/user-attachments/assets/dcddf0d6-8199-459f-b8bd-8699ea652b29" />
+
 
 ### Supplier Quality & Reliability
   - Supplier 5 emerged as the highest-risk supplier, combining elevated defect rates and high late delivery days.
