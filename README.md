@@ -16,7 +16,8 @@ The objective of this project was to provide leadership with a data-driven view 
   - Actions: carrier rebalance pilot, inventory reduction, supplier corrective action
 # Key Findings
 <img width="410" height="171" alt="{37B81AC0-2C29-4D3D-BFBB-AE0D9B7763CD}" src="https://github.com/user-attachments/assets/979766b6-69ac-405a-97a1-e198601f0394" />
-<img width="410" height="320" alt="{48A578FB-6D31-4D7F-A680-2894CB784FA6}" src="https://github.com/user-attachments/assets/e216e75c-edaf-4bdd-944e-c7fe7e1741c0" />
+<img width="410" height="426" alt="{20714075-1CF2-40B5-B372-88961C9A4758}" src="https://github.com/user-attachments/assets/bd01c122-7519-4955-b909-054a9906999b" />
+
 
 
 
