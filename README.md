@@ -28,7 +28,7 @@ The objective of this project was to provide leadership with a data-driven view 
 #### Business impact: Delivery reliability, not pricing or demand, is the primary operational risk affecting customer experience and future revenue retention.
 
 
-<img width="799" height="260" alt="image" src="https://github.com/user-attachments/assets/86224f34-5c93-4582-90fd-1cc57250a443" />
+<img width="799" height="360" alt="image" src="https://github.com/user-attachments/assets/86224f34-5c93-4582-90fd-1cc57250a443" />
 
 ### Cost & Profitability
   - Gross margin remained extremely strong at 99%, confirming that pricing and cost structure are not immediate concerns.
