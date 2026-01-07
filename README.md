@@ -38,7 +38,7 @@ The objective of this project was to provide leadership with a data-driven view 
 #### Business impact: Profitability is driven by volume and operational execution, not margin optimization. Poor route and carrier performance introduces hidden financial risk.
 
 <img width="410" height="430" alt="{DAF804F1-45EB-49C5-B699-D4AD4D384D16}" src="https://github.com/user-attachments/assets/777c1034-e322-4c76-b198-a1269e4682c2" />
-<img width="410" height="220" alt="{3AC10520-BD4A-4EC2-9E11-B216A112DAD8}" src="https://github.com/user-attachments/assets/3b2cb0f8-40da-4be9-9628-8d35c2f38fac" />
+<img width="410" height="225" alt="{3AC10520-BD4A-4EC2-9E11-B216A112DAD8}" src="https://github.com/user-attachments/assets/3b2cb0f8-40da-4be9-9628-8d35c2f38fac" />
 
 
 
