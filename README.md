@@ -15,7 +15,7 @@ The objective of this project was to provide leadership with a data-driven view 
   - Top supplier risk: Supplier 5 (defects + delays)
   - Actions: carrier rebalance pilot, inventory reduction, supplier corrective action
 # Key Findings
-<img width="410" height="221" alt="{37B81AC0-2C29-4D3D-BFBB-AE0D9B7763CD}" src="https://github.com/user-attachments/assets/979766b6-69ac-405a-97a1-e198601f0394" />
+<img width="410" height="223" alt="{37B81AC0-2C29-4D3D-BFBB-AE0D9B7763CD}" src="https://github.com/user-attachments/assets/979766b6-69ac-405a-97a1-e198601f0394" />
 <img width="410" height="426" alt="{20714075-1CF2-40B5-B372-88961C9A4758}" src="https://github.com/user-attachments/assets/bd01c122-7519-4955-b909-054a9906999b" />
 
 
