@@ -28,7 +28,7 @@ The objective of this project was to provide leadership with a data-driven view 
 #### Business impact: Delivery reliability, not pricing or demand, is the primary operational risk affecting customer experience and future revenue retention.
 
 
-<img width="799" height="360" alt="image" src="https://github.com/user-attachments/assets/86224f34-5c93-4582-90fd-1cc57250a443" />
+<img width="799" height="400" alt="image" src="https://github.com/user-attachments/assets/86224f34-5c93-4582-90fd-1cc57250a443" />
 
 ### Cost & Profitability
   - Gross margin remained extremely strong at 99%, confirming that pricing and cost structure are not immediate concerns.
@@ -49,7 +49,7 @@ The objective of this project was to provide leadership with a data-driven view 
   - Haircare held relatively high stock levels without proportional sales movement.
 #### Business impact: Inventory is not optimally aligned with demand, reducing cash flexibility and increasing carrying cost risk.
 
-<img width="823" height="360" alt="{D02B46AB-AE46-4ED0-8884-C1ECB5F8ED2C}" src="https://github.com/user-attachments/assets/dcddf0d6-8199-459f-b8bd-8699ea652b29" />
+<img width="823" height="400" alt="{D02B46AB-AE46-4ED0-8884-C1ECB5F8ED2C}" src="https://github.com/user-attachments/assets/dcddf0d6-8199-459f-b8bd-8699ea652b29" />
 
 
 ### Supplier Quality & Reliability
