@@ -1,4 +1,4 @@
-# Supply Chain Performance SLA-Analytics
+# Supply Chain Performance - SLA Analytics
 
 # Business Problem
 #### Company: NorthPeak Consumer Goods
